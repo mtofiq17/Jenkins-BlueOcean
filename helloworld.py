@@ -1,2 +1,2 @@
 
-print("Hello World")
+print("This python file is used only for test")
